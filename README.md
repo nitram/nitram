@@ -2,15 +2,16 @@
 
 
 <a href="https://www.linkedin.com/in/nitram-dev/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/nitram_dev">
-  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg"/>
 </a>
 
 <a href="https://www.facebook.com/nitram.dev/">
-  <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg"/>
+</a>
 
 <!--
 **nitram/nitram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
