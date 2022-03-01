@@ -1,6 +1,7 @@
 ## Hello world 👋
 
-<img align="center" width="80px" src="https://avatars.dicebear.com/api/initials/hi.svg" />
+<img align="center" width="80px" src="https://avatars.dicebear.com/api/initials/th.svg" />
+<img align="center" width="80px" src="https://avatars.dicebear.com/api/initials/is.svg" />
 
 ### Programming Languages 🐍
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/python.svg" />
