@@ -8,6 +8,7 @@
 
 <samp>This is Martin, a software developer. I can build creative and elegant applications but I can't fix your printer.
 
+<br>
   
 - 🎓 Undergrad student in Computer Science
 - 🐍 Currently focusing on Django and React
