@@ -29,12 +29,12 @@
 <a href="https://www.linkedin.com/in/nitram-dev/">
   <img align="left" height="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/nitram.dev/">
-  <img align="left" height="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg"/>
-</a>
 <a href="https://www.instagram.com/self.nitram/">
   <img align="left" height="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg"/>
 </a>
 <a href="https://twitter.com/nitram_dev">
-  <img align="center" height="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg"/>
+  <img align="left" height="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg"/>
+</a>
+<a href="https://www.facebook.com/nitram.dev/">
+  <img align="left" height="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg"/>
 </a>
