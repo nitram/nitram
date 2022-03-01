@@ -1,13 +1,13 @@
 ## Hello world 👋
 
-<img align="center" width="80px" src="https://avatars.dicebear.com/api/initials/th.svg" />
-<img align="center" width="80px" src="https://avatars.dicebear.com/api/initials/is.svg" />
+<img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/th.svg" />
+<img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/is.svg" />
 
 ### Programming Languages 🐍
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/python.svg" />
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/javascript.svg" />
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/php.svg" />
-<img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/cplusplus.svg" />
+<img align="center" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/cplusplus.svg" />
 
 <br><br><br>
 ### Connect with me 🔗
