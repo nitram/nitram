@@ -11,7 +11,7 @@
   
 - 🎓 Undergrad student in Computer Science
 - 🐍 Currently focusing on Django and React
-- 🙆‍♂️ Pronouns: He/his
+- 🙆‍♂️ Pronouns: he/him
 - ⚡ Fun fact: i lowkey love pressure
   
 
