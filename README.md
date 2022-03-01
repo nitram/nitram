@@ -7,7 +7,7 @@
 </h1>
 
 <samp>This is Martin, a software developer. I can build creative and elegant applications but I can't fix your printer.
-
+  
 <br>
   
 - 🎓 Undergrad student in Computer Science
@@ -15,7 +15,7 @@
 - 🙆‍♂️ Pronouns: he/him
 - ⚡ Fun fact: i lowkey love pressure
 
-<br>
+##
   
 ### Programming Languages 👾
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/python.svg" />
@@ -23,7 +23,7 @@
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/php.svg" />
 <img align="center" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/cplusplus.svg" />
 
-<br>
+##
   
 ### Connect with me 🤝
 <a href="https://www.linkedin.com/in/nitram-dev/">
