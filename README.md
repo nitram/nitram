@@ -2,15 +2,15 @@
 
 
 <a href="https://www.linkedin.com/in/nitram-dev/">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img width="20px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/nitram_dev">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg"/>
+  <img width="20px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg"/>
 </a>
 
 <a href="https://www.facebook.com/nitram.dev/">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg"/>
+  <img width="20px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg"/>
 </a>
 
 <!--
