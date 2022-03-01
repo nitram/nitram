@@ -6,6 +6,8 @@
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/O.svg" />
 </h1>
 
+This is Martin, a software developer. I can build creative and elegant applications but I can't fix your printer.
+
 ### Programming Languages 🐍
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/python.svg" />
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/javascript.svg" />
