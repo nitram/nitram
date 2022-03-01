@@ -1,9 +1,14 @@
 <div>
-<img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/H.svg" />
-<img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/E.svg" />
-<img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/L.svg" />
-<img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/L.svg" />
-<img align="center" width="100px" src="https://avatars.dicebear.com/api/initials/O.svg" />
+  <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/H.svg" />
+  <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/E.svg" />
+  <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
+  <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
+  <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/O.svg" />
+  <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/W.svg" />
+  <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/O.svg" />
+  <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/R.svg" />
+  <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
+  <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/D.svg" />
 </div>
 
 ### Programming Languages 🐍
