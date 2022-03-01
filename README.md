@@ -1,11 +1,11 @@
 ### Hello world 👋
 
 ## Programming Languages 🐍
-<img align="left" width="120px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/python.svg" />
-<img align="left" width="120px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/javascript.svg" />
-<img align="left" width="120px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/php.svg" />
-
-<br>
+<div>
+  <img align="left" width="120px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/python.svg" />
+  <img align="left" width="120px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/javascript.svg" />
+  <img align="left" width="120px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/php.svg" />
+</div>
 
 ## Connect with me 🔗
 
