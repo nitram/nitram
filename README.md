@@ -4,11 +4,11 @@
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/O.svg" />
-  <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/W.svg" />
+<!--   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/W.svg" />
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/O.svg" />
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/R.svg" />
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
-  <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/D.svg" />
+  <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/D.svg" /> -->
 </p>
 
 ### Programming Languages 🐍
