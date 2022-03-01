@@ -1,7 +1,7 @@
 ## Hello world 👋
 
-<img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/I.svg" />&nbsp;&nbsp;
-<img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/am.svg" />&nbsp;&nbsp;
+<img align="left" style="margin-right: 20px;" width="100px" src="https://avatars.dicebear.com/api/initials/I.svg" />
+<img align="left" style="margin-right: 20px;" width="100px" src="https://avatars.dicebear.com/api/initials/am.svg" />
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/Ma.svg" />
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/rt.svg" />
 <img align="center" width="100px" src="https://avatars.dicebear.com/api/initials/in.svg" />
