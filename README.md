@@ -1,5 +1,5 @@
 <h1>
-  <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/H.svg" />
+  <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/h.svg" />
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/E.svg" />
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
