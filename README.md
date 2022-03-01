@@ -1,5 +1,3 @@
-## Hello world 👋
-
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/H.svg" />
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/E.svg" />
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/L.svg" />
