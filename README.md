@@ -1,8 +1,9 @@
 ## Hello world 👋
 
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/I.svg" />
-<img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/_.svg" />
+&nbsp;&nbsp;
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/am.svg" />
+&nbsp;&nbsp;
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/_.svg" />
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/Ma.svg" />
 <img align="left" width="100px" src="https://avatars.dicebear.com/api/initials/rt.svg" />
