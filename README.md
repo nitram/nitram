@@ -1,13 +1,13 @@
-### Hello world 👋
+## Hello world 👋
 
 
-## Programming Languages 🐍
+### Programming Languages 🐍
 <img align="left" width="100px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/python.svg" />
 <img align="left" width="100px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/javascript.svg" />
 <img align="left" width="100px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/php.svg" />
 
 
-## Connect with me 🔗
+### Connect with me 🔗
 
 <a href="https://www.linkedin.com/in/nitram-dev/">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
