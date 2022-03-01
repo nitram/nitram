@@ -10,7 +10,7 @@
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/D.svg" />
 </div>
-
+\
 ### Programming Languages 🐍
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/python.svg" />
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/javascript.svg" />
