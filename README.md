@@ -1,4 +1,4 @@
-<div align="right">
+<p align="center">
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/H.svg" />
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/E.svg" />
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
@@ -9,8 +9,8 @@
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/R.svg" />
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/D.svg" />
-</div>
-\
+</p>
+
 ### Programming Languages 🐍
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/python.svg" />
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/javascript.svg" />
