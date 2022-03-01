@@ -1,12 +1,10 @@
 ## Hello world 👋
 
-<img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/th.svg" />
-<img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/is.svg" />
-
-<img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/IS.svg" />
+<img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/i.svg" />
+<img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/am.svg" />
 <img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/ma.svg" />
 <img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/rt.svg" />
-<img align="left" width="80px" src="https://avatars.dicebear.com/api/initials/in.svg" />
+<img align="center" width="80px" src="https://avatars.dicebear.com/api/initials/in.svg" />
 
 ### Programming Languages 🐍
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/python.svg" />
