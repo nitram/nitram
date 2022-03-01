@@ -11,7 +11,7 @@
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/D.svg" />
 </p>
 
-### Programming Languages 🐍
+<h2>Programming Languages 🐍</h2>
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/python.svg" />
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/javascript.svg" />
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/fa85669367bb1182ad208b7c2fed85ba05d574bb/images/svg/php.svg" />
