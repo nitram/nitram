@@ -5,6 +5,7 @@
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/python.svg" />
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/javascript.svg" />
 <img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/php.svg" />
+<img align="left" width="80px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/cplusplus.svg" />
 
 <br><br><br>
 ### Connect with me 🔗
