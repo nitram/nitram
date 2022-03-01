@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/H.svg" />
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/E.svg" />
   <img align="left" width="40px" src="https://avatars.dicebear.com/api/initials/L.svg" />
