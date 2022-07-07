@@ -6,7 +6,7 @@
   <img align="center" width="40px" src="https://avatars.dicebear.com/api/initials/O.svg" />
 </h1>
 
-<samp>This is Martin, a software developer and sometimes, a teacher. I can build creative and elegant applications but I can't fix your printer.</samp>
+<samp>This is Martin, a software developer and sometimes, a teacher. I may know one or zero thing about computers.</samp>
   
 <br>
   
